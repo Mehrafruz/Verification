@@ -2,7 +2,8 @@
 
 ## Приложение которое проведет анализ и спрогнозирует исход выборов.
 
-![mi](https://github.com/Mehrafruz/Verification/blob/master/Демо.gif)
+<img src="1.png"/>
+<img src="2.png"/>
 
 ## Описание
 Целью данной работы является: 
