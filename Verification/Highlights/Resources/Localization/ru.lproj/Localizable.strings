@@ -1,0 +1,31 @@
+//  Localizable.strings
+//  Highlights
+//
+//  Created by Дмитрий Марченков on 07.04.2021.
+//
+
+
+"homeScreenTitle" = "Привет";
+"editButton" = "Редактировать";
+"continueButton" = "Продолжить";
+
+
+//OnboardingScreen
+"firstOnboardFirstScreenMainText" = "Лучшие хайлайты";
+"firstOnboardFirstScreenDescriptionText" = "Более 400 уникальных хайлайтов\nдля вашего Инстаграм";
+"firstOnboardSecondScreenMainText" = "20+ категорий";
+"firstOnboardSecondScreenDescriptionText" = "Выбирайте и редактируйте хайлайты,\nкоторые вам подходят";
+"firstOnboardThirdScreenMainText" = "Редактор";
+"firstOnboardThirdScreenDescriptionText" = "Создавайте свои собственные\nхайлайты легко и просто ";
+"firstOnboardFourthScreenMainText" = "Преобразите аккаунт";
+"firstOnboardFourthScreenDescriptionText" = "Получите полный доступ ко всем\nхайлайтам. 3 дня бесплатно, далее\n8/месяц. Разблокируйте все!";
+
+//ConfirmationEditHighlightAlertScreen
+"confirmationEditHighlightAlertTitleText" = "Хайлайт сохранен\nв галереe";
+"confirmationEditHighlightAlertButtonText" = "ОК";
+
+//WarningEditHighlightAlertScreen
+"warningEditHighlightAlertTitleText" = "Вы уверены что хотите\nвернуться назад?";
+"warningEditHighlightAlertDescriptionText" = "Созданный хайлайт\nне будет сохранен";
+"warningEditHighlightAlertLeftButton" = "Назад";
+"warningEditHighlightAlertRightButton" = "Продолжить";

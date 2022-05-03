@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  Highlights
+
+  Created by Дмитрий Марченков on 07.04.2021.
+  
+*/
+
+"homeScreenTitle" = "Hello";
+"editButton" = "Edit";
+"continueButton" = "Continue";
+
+
+//OnboardingScreen
+"firstOnboardFirstScreenMainText" = "Best Highlights";
+"firstOnboardFirstScreenDescriptionText" = "Over 400 unique highlights\nfor your Instagram profile";
+"firstOnboardSecondScreenMainText" = "20+ categories";
+"firstOnboardSecondScreenDescriptionText" = "Select and edit\nhighlights you like";
+"firstOnboardThirdScreenMainText" = "Constructor";
+"firstOnboardThirdScreenDescriptionText" = "Easy to create highlights\nwith your own design";
+"firstOnboardFourthScreenMainText" = "Make Unique Profile";
+"firstOnboardFourthScreenDescriptionText" = "Get full access to all highlight covers.\n3 day trial, then  $19.75/month.\nUnlock everything!";
+
+//ConfirmationEditHighlightAlertScreen
+"confirmationEditHighlightAlertTitleText" = "Highlight saved\nin your gallery";
+"confirmationEditHighlightAlertButtonText" = "Okay";
+
+//WarningEditHighlightAlertScreen
+"warningEditHighlightAlertTitleText" = "Are you sure you want to go back?";
+"warningEditHighlightAlertDescriptionText" = "The created highlight\nwill not be saved";
+"warningEditHighlightAlertLeftButton" = "Back";
+"warningEditHighlightAlertRightButton" = "Continue";

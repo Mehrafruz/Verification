@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/mehrafruz/Documents/&#x42d;&#x442;&#x43e; &#x43f;&#x440;&#x43e;&#x435;&#x43a;&#x442; &#x441; &#x432;&#x435;&#x440;&#x438;&#x444;&#x438;&#x43a;&#x430;&#x446;&#x438;&#x435;&#x438;&#x306; &#x43d;&#x430; &#x43e;&#x441;&#x43d;&#x43e;&#x432;&#x435; &#x425;&#x430;&#x438;&#x306;&#x43b;&#x430;&#x438;&#x306;&#x442;&#x43e;&#x432;/Verification.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
