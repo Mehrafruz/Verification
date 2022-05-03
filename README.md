@@ -11,7 +11,7 @@
 ## Основные экраны
 Главная (Анализ критериев США и анализ критериев в ФРГ)
 
-## Стек технологий
+## Стек технологий в iOS
 </tr>
     <td> 
     <b style="font-size:15px">
@@ -20,20 +20,18 @@
      &nbsp;&nbsp;&nbsp;&nbsp;  ◦ Autolayout, Pin Layout <br/>
         &nbsp;&nbsp;&nbsp;&nbsp;  ◦ MVC <br/>
          &nbsp;&nbsp;&nbsp;&nbsp;  ◦ UIAnimation <br/>
-         &nbsp;&nbsp;&nbsp;&nbsp;  ◦ Python<br/>
            </b>
     </td>
  </tr>
 <br/> 
-
-
+## Стек технологий в Python
 </tr>
     <td> 
     <b style="font-size:15px">
     &nbsp;&nbsp;&nbsp;&nbsp;   ◦ Многослойность <br/> 
     &nbsp;&nbsp;&nbsp;&nbsp;  ◦ Dropout<br/>
-     &nbsp;&nbsp;&nbsp;&nbsp;  ◦ early_stopping  <br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;  ◦ Активационная функция - ReLU + сигмоидная <br/>
+     &nbsp;&nbsp;&nbsp;&nbsp;  ◦ Early_stopping  <br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;  ◦ Активационная функция - ReLU + сигмоидная (уравнение Ферхюльста)<br/>
            </b>
     </td>
  </tr>
