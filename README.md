@@ -34,7 +34,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;   ◦ Многослойность <br/> 
     &nbsp;&nbsp;&nbsp;&nbsp;  ◦ Dropout<br/>
      &nbsp;&nbsp;&nbsp;&nbsp;  ◦ Early_stopping  <br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;  ◦ Активационная функция - ReLU + сигмоидная (уравнение Ферхюльста)<br/>
+        &nbsp;&nbsp;&nbsp;&nbsp;  ◦ Активационная функция - ReLU, сигмоидная (уравнение Ферхюльста)<br/>
            </b>
     </td>
  </tr>
